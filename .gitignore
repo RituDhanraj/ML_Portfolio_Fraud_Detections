@@ -1,0 +1,19 @@
+# data
+data/raw/*
+data/processed/*
+
+# notebooks checkpoints
+**/.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# models
+models/*
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
