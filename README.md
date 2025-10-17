@@ -17,7 +17,8 @@ This project detects potentially fraudulent card transactions. We trained a mach
 
 **Why this threshold?** Highest recall subject to **precision ≥ 0.50** to cut false-positive reviews while catching most fraud.
 
-📄 Artifact: [models/fraud_rf_artifact.json](models/fraud_rf_artifact.json)  
+📄 Artifact: [models/fraud_rf_artifact.json](models/fraud_rf_artifact.json)
+ 
 📈 PR curve:  
 ![Precision–Recall curve](docs/pr_curve.png)  
 👀 View final notebook (nbviewer):  
