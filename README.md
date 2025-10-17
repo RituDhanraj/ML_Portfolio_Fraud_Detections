@@ -21,6 +21,9 @@ This project detects potentially fraudulent card transactions. We trained a mach
  
 📈 PR curve:  
 ![Precision–Recall curve](docs/pr_curve.png)  
+
+<img width="567" height="453" alt="image" src="https://github.com/user-attachments/assets/aaf7f378-3207-41e8-a3f8-d6cf0d72166c" />
+
 👀 View final notebook (nbviewer):  
 [https://nbviewer.org/github/RituDhanraj/ML_Portfolio_Fraud_Detections/blob/main/notebooks/04_results_and_visualizations.ipynb](https://colab.research.google.com/github/RituDhanraj/ML_Portfolio_Fraud_Detections/blob/main/notebooks/04_results_and_visualizations.ipynb)
 
