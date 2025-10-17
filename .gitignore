@@ -17,3 +17,14 @@ models/*
 .DS_Store
 .vscode/
 .idea/
+
+# virtual env
+venv/
+
+# data (don’t commit datasets)
+data/raw/*
+data/processed/*
+
+# models: keep JSON artifacts only
+models/*
+!models/*.json
