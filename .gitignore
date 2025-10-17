@@ -28,3 +28,4 @@ data/processed/*
 # models: keep JSON artifacts only
 models/*
 !models/*.json
+
